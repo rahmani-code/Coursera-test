@@ -1,0 +1,46 @@
+#h1 {
+text-align: center;
+}
+
+#div1 {
+    margin: 10px ;
+    padding: 20px;
+    height: 200px;
+    width: 400px;
+    border: 2px black solid;
+    background-color: gray;
+    overflow: auto;
+    float: left;
+}
+
+#div3 {
+    margin: 10px;
+    padding: 20px;
+    height: 200px;
+    width: 400px;
+    border: 2px black solid;
+    background-color: gray;
+    float: left;
+    overflow: auto;
+   
+}
+
+
+#p {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+#title1 {
+    text-align: center;
+    height: 20px;
+    width: 96px;
+    background-color: red;
+    position: relative;
+    left: 280px;
+    top: -21px;
+    align-content: center;
+    border-left: 1.5px black solid;
+    border-bottom: 1.5px black solid;
+}
+
+
